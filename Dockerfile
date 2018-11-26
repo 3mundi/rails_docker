@@ -1,4 +1,4 @@
-FROM phusion/passenger-ruby25:latest
+FROM phusion/passenger-ruby25:0.9.35
 
 ENV LANG=en_US.UTF-8 \
 LANGUAGE=en_US:en \
